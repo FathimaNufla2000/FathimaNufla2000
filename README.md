@@ -37,7 +37,7 @@
 ![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=FathimaNufla2000&layout=compact&theme=radical)
 
 ### 🔥 Streak Stats
-![GitHub Streak](https://streak-stats.demolab.com?user=FathimaNufla2000&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com?user=FathimaNufla2000&theme=radical&cache_seconds=1)
 
 ### 📫 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fathima-nufla-a8a421243)
