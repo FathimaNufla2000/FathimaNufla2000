@@ -4,7 +4,7 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Frontend+%26+Mobile+Developer;React+%7C+React+Native;MERN+Stack+Enthusiast;Always+Learning+%F0%9F%9A%80)
 
 - 🎓 BICT (Hons.), University of Jaffna with Second Class(Upper Division)
-- 💼 Software Engineer Intern @ **Amuryx (Pvt) Ltd** - built enterprise React.js modules for the Kan-de system
+- 💼 Software Engineer Intern at **Amuryx (Pvt) Ltd** - built enterprise React.js modules for the Kan-de system
 - 🔬 Published research at **RCAICT 2025** - Multi-Network Blockchain Framework for Rapid Fund Protection and Transaction Analysis 
 - 🌱 Open to collaborating on open source web/mobile projects
 - 📫 Reach me at **fathimanufla2020@gmail.com**
