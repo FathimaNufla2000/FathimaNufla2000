@@ -30,7 +30,7 @@
 - **Student Feedback System** - Full-stack (Node.js, Express, Docker), containerized with 60% image size reduction
 - **Student Exam Registration Portal** - React Native mobile app with dynamic payments & auth
 - **UniAcademic Tracker** - React Native app tracking 8 semesters / 50+ modules with offline storage
-- **Hotel Management System** - Java Spring Boot + Thymeleaf + MySQL, full CRUD booking system
+- **[Hotel Management System](https://github.com/FathimaNufla2000/Hotel-Management-System-Spring-Boot)** - Java Spring Boot + Thymeleaf + MySQL, full CRUD booking system
 
 ### 📊 GitHub Stats
 ![Fathima's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=FathimaNufla2000&show_icons=true&theme=radical)
