@@ -11,19 +11,9 @@
 - ✍️ I write on [Medium](https://medium.com/@fathimanufla2020)
 
 ### 🛠️ Tech Stack
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![React Native](https://img.shields.io/badge/-React_Native-61DAFB?style=flat&logo=react&logoColor=black)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/-Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,php,cpp,c,cs,dotnet,react,nodejs,express,java,spring,python,mongodb,mysql,docker,git,github,postman,figma,xd,vscode,matlab&perline=12"/>
+</p>
 
 ### 🚀 Featured Projects
 - **[Dream-Key Real Estate](https://github.com/FathimaNufla2000/Dream-Key-Estate)** - MERN stack real estate platform with JWT auth, Firebase, Google OAuth, Cloudinary image storage, deployed on Render. [Live Demo](https://dream-key-estate.onrender.com/)
