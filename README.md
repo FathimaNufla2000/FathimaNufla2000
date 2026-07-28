@@ -12,7 +12,7 @@
 
 ### 🛠️ Tech Stack
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,php,cpp,c,cs,dotnet,react,nodejs,express,java,spring,python,mongodb,mysql,docker,git,github,postman,figma,xd,vscode,matlab&perline=12"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,php,cpp,c,cs,dotnet,react,nodejs,express,java,spring,python,npm,mongodb,mysql,docker,git,github,postman,figma,xd,vscode,sublime,matlab&perline=13"/>
 </p>
 
 ### 🚀 Featured Projects
