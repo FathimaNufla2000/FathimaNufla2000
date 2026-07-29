@@ -19,7 +19,7 @@
 - **[Dream-Key Real Estate](https://github.com/FathimaNufla2000/Dream-Key-Estate)** - MERN stack real estate platform with JWT auth, Firebase, Google OAuth, Cloudinary image storage, deployed on Render. [Live Demo](https://dream-key-estate.onrender.com/)
 - **[Hotel Management System](https://github.com/FathimaNufla2000/Hotel-Management-System-Spring-Boot)** - Java Spring Boot + Thymeleaf + MySQL, full CRUD booking system with admin dashboard, containerized with Docker and deployed on Railway. [Live Demo](https://hotel-management-system-spring-boot-production.up.railway.app/)
 - **[Student Result Management System](https://github.com/FathimaNufla2000/Student-Result-Management-System)** - PHP + MySQL academic result management system with admin dashboard, containerized with Docker and deployed on Railway. [Live Demo](https://student-result-management-system-production-844f.up.railway.app)
-- **Student Feedback System** - Full-stack (Node.js, Express, Docker), containerized with 60% image size reduction
+- **[Student Feedback System](https://github.com/FathimaNufla2000/student-feedback-system)** - Full-stack (Node.js, Express, Docker), containerized with 60% image size reduction and deployed on Vercel. [Live Demo](https://student-feedback-system-orpin.vercel.app)
 - **Student Exam Registration Portal** - React Native mobile app with dynamic payments & auth
 - **UniAcademic Tracker** - React Native app tracking 8 semesters / 50+ modules with offline storage
 - **[Teacher API](https://github.com/FathimaNufla2000/TeacherAPI-SpringBoot-CRUD)** - Spring Boot REST API for teacher management, full CRUD operations
