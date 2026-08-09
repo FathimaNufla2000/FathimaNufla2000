@@ -4,7 +4,7 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Frontend+%26+Mobile+Developer;React+%7C+React+Native;MERN+Stack+Enthusiast;Always+Learning+%F0%9F%9A%80)
 
 - 🎓 BICT (Hons.), University of Jaffna with Second Class(Upper Division)
-- 💼 Software Engineer Intern at **Amuryx (Pvt) Ltd** - built enterprise React.js modules for the Kan-de system
+- 💼 Ex-Software Engineer Intern at **Amuryx (Pvt) Ltd** - built enterprise React.js modules for the Kan-de system
 - 🔬 Published research at **RCAICT 2025** - Multi-Network Blockchain Framework for Rapid Fund Protection and Transaction Analysis 
 - 🌱 Open to collaborating on open source web/mobile projects
 - 📫 Reach me at **fathimanufla2020@gmail.com**
@@ -12,10 +12,12 @@
 
 ### 🛠️ Tech Stack
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,php,cpp,c,cs,dotnet,react,nodejs,express,java,spring,python,npm,mongodb,mysql,docker,git,github,postman,figma,xd,vscode,sublime,matlab&perline=13"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,php,cpp,c,cs,dotnet,react,nodejs,nestjs,express,java,spring,python,npm,mongodb,postgres,mysql,prisma,docker,git,github,postman,figma,xd,vscode,sublime,matlab&perline=15"/>
 </p>
 
 ### 🚀 Featured Projects
+
+- **[DEALPORT Admin Dashboard](https://github.com/FathimaNufla2000/dealport-admin-dashboard)** - Full-stack e-commerce admin dashboard: NestJS + Prisma + PostgreSQL REST API (JWT auth, product CRUD, image upload) with a Next.js (App Router) + Tailwind frontend, built from a Figma design system. [Live Demo](https://dealport-admin-dashboard-three.vercel.app)
 - **[Dream-Key Real Estate](https://github.com/FathimaNufla2000/Dream-Key-Estate)** - MERN stack real estate platform with JWT auth, Firebase, Google OAuth, Cloudinary image storage, deployed on Render. [Live Demo](https://dream-key-estate.onrender.com/)
 - **[Hotel Management System](https://github.com/FathimaNufla2000/Hotel-Management-System-Spring-Boot)** - Java Spring Boot + Thymeleaf + MySQL, full CRUD booking system with admin dashboard, containerized with Docker and deployed on Railway. [Live Demo](https://hotel-management-system-spring-boot-production.up.railway.app/)
 - **[Student Result Management System](https://github.com/FathimaNufla2000/Student-Result-Management-System)** - PHP + MySQL academic result management system with admin dashboard, containerized with Docker and deployed on Railway. [Live Demo](https://student-result-management-system-production-844f.up.railway.app)
